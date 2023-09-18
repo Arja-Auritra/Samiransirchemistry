@@ -1,0 +1,38 @@
+#navbar {
+  padding: 15px;
+}
+#back {
+  background-color: #DDDECB;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin-top: 10px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+#video {
+  border: 3px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 19px;
+  padding: auto;
+}
+#glu {
+  text-align: center;
+  background-color: lightgreen;
+  padding: 10px;
+
+}
+#glu > p {
+  font-size: 50px;
+  margin: 10px;
+  font-weight: bolder;
+}
+.border {
+  text-align: center;
+}
+#contact {
+  text-align: center;
+  background-color: #C2C6EA;
+  margin: 10px;
+}
