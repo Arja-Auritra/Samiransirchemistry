@@ -2,7 +2,7 @@
   padding: 15px;
 }
 #back {
-  background-color: #DDDECB;
+  background-image: url(images/contest.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -11,8 +11,6 @@
   padding-top: 15px;
 }
 #video {
-  border: 3px solid black;
-  border-radius: 10px;
   text-align: center;
   margin: 19px;
   padding: auto;
@@ -38,22 +36,61 @@
   padding: 10px;
 }
 #video > h4 {
-  color: lightgreen;
-  box-shadow: 2px 1px 5px black;
+  color: white;
+  text-align: center;
 }
 #video_2 {
-  border: 3px solid black;
-  border-radius: 10px;
   text-align: center;
   margin: 19px;
   padding: auto;
 }
 #video_3 {
-  border: 3px solid black;
+  border: 3px solid blue;
   border-radius: 10px;
   text-align: center;
   margin: 19px;
   padding: auto;
-  color: lightgreen;
-  box-shadow: 2px 1px 5px black;
+
+}
+#main {
+   background-image: url(images/baner.jpg);
+   background-repeat: /* REVIEW:  */;
+   padding-top: 9px;
+}
+#footer {
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#footer {
+  padding: 10px;
+  text-align: center;
+}
+#tag {
+  padding: 2px;
+  text-align: center;
+  margin: 9px;
+}
+#h2{
+  padding: 2px;
+  text-align: center;
+  margin: 9px;
+}
+#h3 {
+  padding: 2px;
+  text-align: center;
+  margin: 9px;
+}
+#h4 {
+  padding: 2px;
+  text-align: center;
+  margin: 9px;
+  padding: 5px;
+}
+img {
+  width: 4%;
+  height: 4%;
+}
+#back > h1 {
+  font-size: 30px;
 }
