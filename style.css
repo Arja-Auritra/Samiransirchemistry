@@ -94,3 +94,44 @@ img {
 #back > h1 {
   font-size: 30px;
 }
+#video_page , #video_second {
+  text-align: center;
+}
+#video_page {
+  padding-top: 20px;
+  margin-top: auto;
+}
+#content {
+  background-color: #FFFFD8;
+  background-repeat: /* REVIEW:  */;
+  padding-top: 9px;
+}
+#header {
+  padding: 2px;
+  text-align: center;
+  margin: 9px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+#class {
+  padding: 2px;
+  text-align: center;
+  margin: 45px;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+#head {
+  padding: 2px;
+  text-align: center;
+  margin: 10px;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+#text {
+  padding: 2px;
+  text-align: center;
+  margin: 10px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
